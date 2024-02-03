@@ -2,4 +2,4 @@
 
 ## Перемещение элемента
 
-![CI](https://github.com/DarkElf2233/ahj-hw2_1/actions/workflows/web.yml/badge.svg)
+[![ahj-hw2_1](https://github.com/DarkElf2233/ahj-hw2_1/actions/workflows/web.yml/badge.svg)](https://github.com/DarkElf2233/ahj-hw2_1/actions/workflows/web.yml)
